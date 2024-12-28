@@ -8,14 +8,14 @@ media:
     comunications: Коммуникации
     multimedia: Мультимедиа
   input_device: Устройство ввода
-  master_volume: Основная громкость
+  master_volume: Громкость
   output_device: Устройство вывода
   players: Медиаплееры
 network:
   available: Доступные сети
-  connect: Подключить
+  connect: Подключиться
   connected: Подключено к
-  disconnect: Отключить
+  disconnect: Отключиться
   hidden: Скрытая сеть
   more: Больше настроек сети
   not_found: Не найдено ни одной сети
@@ -23,7 +23,7 @@ network:
     password: Пароль
   saved: Сохраненные сети
   scanning: Сканирование сетей
-  secured: Зашифрованная сеть
+  secured: Зашищённая сеть
 placeholder:
   battery_remaining: Осталось %
   bluetooth_devices: Bluetooth и устройства
